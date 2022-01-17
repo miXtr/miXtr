@@ -1,6 +1,6 @@
 ### Hi there, I'm Michal Trnka 👋
 
-- 🔭 I’m currently working on IoT Cloud infrastracture in https://www.senzoor.com
+- 🔭 I’m currently working on IoT Cloud infrastracture at [Senzoor](https://www.senzoor.com)
 <!--
 **miXtr/miXtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
