@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on IoT cloud infrastracture at [Senzoor](https://www.senzoor.com)
 - 🌱 I’m currently learning k8s, Python & Three.js
 - 💬 Ask me about SQL, REST API or Docker
-- [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
+- [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/michaltrnka)
 
 <p align="center">
  <a href="#" alt="Michal Trnkas's github stats">
