@@ -4,11 +4,12 @@
  <strong>
   Professional skills
   </strong>
+</p>
+
+<p align='center'>
 
   [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
 </p>
-
-<p></p>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="55" height="55" />
