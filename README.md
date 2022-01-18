@@ -1,13 +1,11 @@
 <h1 align="center">Hi there, I'm Michal Trnka 👋</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
-
-<p></p>
-
 <p align="center"> 
  <strong>
   Professional skills
   </strong>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
 </p>
 
 <p></p>
