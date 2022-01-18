@@ -6,11 +6,6 @@
   </strong>
 </p>
 
-<p align='center'>
-
-  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
-</p>
-
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="55" height="55" />
@@ -28,13 +23,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="55" height="55" />
 </p>
 
-<p></p>
-
 - 🔭 I’m currently working on IoT cloud infrastracture at [Senzoor](https://www.senzoor.com)
 - 🌱 I’m currently learning k8s, Python & Three.js
 - 💬 Ask me about SQL, REST API or Docker
-
-<p></p>
+- [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/qiushengwu)
 
 <p align="center">
  <a href="#" alt="Michal Trnkas's github stats">
