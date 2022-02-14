@@ -28,11 +28,11 @@
 - 💬 Ask me about SQL, REST API or Docker
 - [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/michaltrnka)
 
-<p align="center">
+<!-- <p align="center">
  <a href="#" alt="Michal Trnkas's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=miXtr&theme=default&show_icons=true" />
  </a>
-</p>
+</p> -->
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixtr&layout=compact&hide=html&theme=default" alt="mixtr" />
