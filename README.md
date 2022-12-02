@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="55" height="55" />
 </p> -->
 
-- 🔭 I’m currently working on IoT cloud infrastracture at [Senzoor](https://www.senzoor.com)
+- 🔭 I’m currently working on IoT cloud infrastracture at [Senzoor](https://www.senzoor.cz)
 - 🌱 At my free time I’m learning .NET, Python & Three.js
 - 💬 Ask me about SQL, REST API or Docker
 - [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/michaltrnka)
