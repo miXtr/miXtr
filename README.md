@@ -24,8 +24,9 @@
 </p> -->
 
 <!-- - 🔭 I’m currently working on IoT cloud infrastracture at [Senzoor](https://www.senzoor.cz) -->
-- 🌱 At my free time I’m learning .NET, Python & Three.js
-- 💬 Ask me about SQL, REST API or Docker
+- 🔭 I’m currently working on Globalization Services at [SAP Labs](https://www.sap.com)
+<!-- - 🌱 At my free time I’m learning .NET, Python & Three.js -->
+<!-- - 💬 Ask me about SQL, REST API or Docker -->
 - [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/michaltrnka)
 
 <!-- <p align="center">
