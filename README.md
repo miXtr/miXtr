@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Michal Trnka 👋</h1>
-
+<!-- <h1 align="center">Hi there, I'm Michal Trnka 👋</h1> -->
+<!--
 <p align="center"> 
  <strong>
   Professional skills
@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55" />
 </p>
+-->
 <!-- <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="55" height="55" />
@@ -34,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miXtr&theme=default&show_icons=true" />
  </a>
 </p> -->
-<br />
+<!-- <br /> -->
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixtr&layout=compact&hide=html&theme=default" alt="mixtr" />
 </p>
